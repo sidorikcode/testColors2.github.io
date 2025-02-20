@@ -35,46 +35,39 @@
     </style>
 </head>
 <body>
-    <h1>Таблица навозных цветов</h1>
+    <h1>Таблица цветов с HEX + RGBA</h1>
     <table>
         <tr>
             <th>Название</th>
-            <th>HEX</th>
-            <th>RGBA</th>
+            <th>HEX (с альфа-каналом)</th>
             <th>Превью</th>
         </tr>
         <tr>
-            <td>Навозный коричневый</td>
-            <td>#8B4513</td>
-            <td>rgba(139, 69, 19, 1)</td>
-            <td><span class="color-box" style="background: rgba(139, 69, 19, 1);"></span></td>
+            <td>Ярко-синий</td>
+            <td>#416AFAFF</td>
+            <td><span class="color-box" style="background: #416AFAFF;"></span></td>
         </tr>
         <tr>
-            <td>Глинисто-коричневый</td>
-            <td>#9C661F</td>
-            <td>rgba(156, 102, 31, 1)</td>
-            <td><span class="color-box" style="background: rgba(156, 102, 31, 1);"></span></td>
+            <td>Полупрозрачный красный</td>
+            <td>#FF000080</td>
+            <td><span class="color-box" style="background: #416AFAFF;"></span></td>
         </tr>
         <tr>
-            <td>Жёлто-коричневый</td>
-            <td>#D2691E</td>
-            <td>rgba(210, 105, 30, 1)</td>
-            <td><span class="color-box" style="background: rgba(210, 105, 30, 1);"></span></td>
+            <td>Зелёный с прозрачностью</td>
+            <td>#00FF0070</td>
+            <td><span class="color-box" style="background: #416AFAFF;"></span></td>
         </tr>
         <tr>
-            <td>Серовато-коричневый</td>
-            <td>#A0522D</td>
-            <td>rgba(160, 82, 45, 1)</td>
-            <td><span class="color-box" style="background: rgba(160, 82, 45, 1);"></span></td>
+            <td>Жёлтый с 50% прозрачности</td>
+            <td>#FFFF0080</td>
+            <td><span class="color-box" style="background: #416AFACC;"></span></td>
         </tr>
         <tr>
-            <td>Темный навозный</td>
-            <td>#654321</td>
-            <td>rgba(101, 67, 33, 1)</td>
-            <td><span class="color-box" style="background: rgba(101, 67, 33, 1);"></span></td>
+            <td>Фиолетовый</td>
+            <td>#8000FFCC</td>
+            <td><span class="color-box" style="background: #416AFA1C;"></span></td>
         </tr>
     </table>
 
 </body>
 </html>
-
