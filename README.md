@@ -58,7 +58,7 @@
             <td><span class="color-box" style="background: #416AFAFF;"></span></td>
         </tr>
         <tr>
-            <td>Жёлтый с 50% прозрачности</td>
+            <td>Жёлтый с 500% прозрачности</td>
             <td>#FFFF0080</td>
             <td><span class="color-box" style="background: #416AFACC;"></span></td>
         </tr>
